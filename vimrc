@@ -3,7 +3,7 @@
 set nocompatible
 autocmd!
 
-" call pathogen#incubate()
+execute pathogen#infect()
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " ENVIRONMENT CONFIGURATION
