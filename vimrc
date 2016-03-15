@@ -202,6 +202,7 @@ augroup END
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " yank to clipboard with leader + y
 map <leader>y "*y
+map <leader>p "*p
 
 " Move around splits with <c-hjkl>
 nnoremap <c-j> <c-w>j
